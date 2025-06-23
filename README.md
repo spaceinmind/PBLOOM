@@ -1,4 +1,4 @@
-# PBH Lensing Optical Depth Analysis
+# PBH Lensing Optical Depth Analysis with BURSTT
 
 This repository contains code to compute and visualize the gravitational lensing optical depth for primordial black holes (PBHs), using cosmological models and FRB-like time delay constraints.
 
