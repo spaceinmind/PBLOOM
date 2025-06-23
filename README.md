@@ -10,7 +10,7 @@ This repository contains code to compute and visualize the gravitational lensing
 - `scripts/integrated_tau_plot.py`  
   Plots **optical depth τ vs lens mass**, for various time delays.
 
-- `data/`  
+- `DMconstraint/`  
   Contains constraint data from external sources (EROS, MACHO, WMAP3, etc.).
 
 ## Dependencies
