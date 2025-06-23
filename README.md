@@ -23,3 +23,7 @@ pip install -r requirements.txt
 
 ## Usage
 python 
+
+## Citation
+Please cite [Ho et al. 2023, ApJ](https://iopscience.iop.org/article/10.3847/1538-4357/accb9e) if you use the code in your paper.
+
