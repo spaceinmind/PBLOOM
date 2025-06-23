@@ -19,7 +19,7 @@ SAVEFIG = False  # Change to True if you want to save the figure
 
 # --- Data Loading ---
 def load_constraints():
-    base = 'dmconstrain/'
+    base = 'DMconstrain/'
     return {
         'EGB': pd.read_csv(base + 'EGB.csv'),
         'EROS': pd.read_csv(base + 'EROS.csv'),
