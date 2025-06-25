@@ -1,4 +1,4 @@
-# Primordial Black hole Lensing Optical depth analysis with Observations from Monitoring surveys (PBLOOM)
+# PBLOOM - Primordial Black hole Lensing Optical depth analysis with Observations from Monitoring surveys
 
 This repository contains code to compute and visualize the gravitational lensing optical depth for primordial black holes (PBHs), using cosmological models and FRB-like time delay constraints. We use the Bustling Universe Radio Survey Telescope in Taiwan (BURSTT) in this repository as an example.
 
@@ -30,7 +30,7 @@ pip install -r requirements.txt
 - f<sub>DM</sub> vs lens mass plot  
 <img src="fdm_ml.png" alt="Batch 1" width="800">  
 
--optical depth τ vs lens mass plot  
+- optical depth τ vs lens mass plot  
 <img src="tau_ml.png" alt="Batch 2" width="800">
 
 ## Citation
