@@ -27,7 +27,7 @@ pip install -r requirements.txt
 `python scripts/integrated_tau_plot.py` for the optical depth τ vs lens mass plot
 
 ## Example plots
-f<sub>DM</sub> vs lens mass plot  
+- f<sub>DM</sub> vs lens mass plot  
 <img src="fdm_ml.png" alt="Batch 1" width="800">  
 
 optical depth τ vs lens mass plot
