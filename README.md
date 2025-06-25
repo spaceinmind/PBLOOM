@@ -5,10 +5,10 @@ This repository contains code to compute and visualize the gravitational lensing
 ## Structure
 
 - `scripts/tau_vs_mass_plot.py`  
-  Plots **f<sub>DM</sub> vs lens mass**, comparing against constraints from EROS, MACHO, FIRAS, etc.
+  Plots **f<sub>DM</sub> vs lensing mass**, comparing against constraints from EROS, MACHO, FIRAS, etc.
   
 - `scripts/integrated_tau_plot.py`  
-  Plots **optical depth τ vs lens mass**, for various time delays.
+  Plots **optical depth τ vs lensing mass**, for various time delays.
 
 - `DMconstrain/`  
   Contains constraint data from external sources (EROS, MACHO, WMAP3, etc.).
@@ -22,9 +22,9 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-`python scripts/tau_vs_mass_plot.py` for the f<sub>DM</sub> vs lens mass plot  
+`python scripts/tau_vs_mass_plot.py` for the f<sub>DM</sub> vs lensing mass plot  
 
-`python scripts/integrated_tau_plot.py` for the optical depth τ vs lens mass plot
+`python scripts/integrated_tau_plot.py` for the optical depth τ vs lensing mass plot
 
 ## Example plots
 - f<sub>DM</sub> vs lens mass plot  
