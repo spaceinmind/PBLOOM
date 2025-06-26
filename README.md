@@ -30,7 +30,7 @@ pip install -r requirements.txt
 - f<sub>DM</sub> vs lens mass plot  
 <img src="fdm_ml.png" alt="Batch 1" width="800">  
 
-- optical depth τ vs lens mass plot  
+- Optical depth τ vs lens mass plot  
 <img src="tau_ml.png" alt="Batch 2" width="800">
 
 ## Citation
