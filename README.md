@@ -23,10 +23,11 @@ pip install -r requirements.txt
 
 ## Usage
 ```python
-python scripts/tau_vs_mass_plot.py` for the f<sub>DM</sub> vs lensing mass plot  
+python scripts/tau_vs_mass_plot.py ``` for the f<sub>DM</sub> vs lensing mass plot  
 
-python scripts/integrated_tau_plot.py` for the optical depth τ vs lensing mass plot
-```
+``` python
+python scripts/integrated_tau_plot.py ``` for the optical depth τ vs lensing mass plot
+
 
 ## Example plots
 - f<sub>DM</sub> vs lensing mass plot  
