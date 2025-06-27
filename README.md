@@ -1,4 +1,4 @@
-# PriBLOOM - Primordial Black hole Lensing Optical depth analysis with Observations from Monitoring surveys
+# 🌸PriBLOOM - Primordial Black hole Lensing Optical depth analysis with Observations from Monitoring surveys
 
 This repository contains code to compute and visualize the gravitational lensing optical depth for primordial black holes (PBHs), using cosmological models and FRB-like time delay constraints. We use the Bustling Universe Radio Survey Telescope in Taiwan (BURSTT) in this repository as an example.
 
